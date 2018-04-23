@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "037c092542bc2c68c913592b7d2499bf"
+build_time: [1524475959, 768508000]
+inputs:
+  "/Users/jabdul/Desktop/Luhn Algorithm/Luhn Algorithm/ViewController.swift": [1524475956, 0]
+  "/Users/jabdul/Desktop/Luhn Algorithm/Luhn Algorithm/AppDelegate.swift": [1524475956, 0]
